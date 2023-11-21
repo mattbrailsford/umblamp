@@ -19,7 +19,7 @@ Assuming you already have the PLA filament and a spare USB lead, the constructio
 
 ### Instructions
 
-The lamp itself consists of 3 printable parts, printed in regular PLA on a printer with greater than a 210mmx210mm print bed (the popular [Ender 3](https://amzn.to/3CRwSUQ) or [Prusa i3](https://amzn.to/3ZxlHdI) should both work, this was tested with an [Bambu Lab X1 Carbon(https://uk.store.bambulab.com/products/x1-carbon-3d-printer)
+The lamp itself consists of 3 printable parts, printed in regular PLA on a printer with greater than a 210mmx210mm print bed (the popular [Ender 3](https://amzn.to/3CRwSUQ) or [Prusa i3](https://amzn.to/3ZxlHdI) should both work, this was tested with an [Bambu Lab X1 Carbon](https://uk.store.bambulab.com/products/x1-carbon-3d-printer)
 
 All models are designed to be printed without supports.
 
