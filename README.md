@@ -57,7 +57,7 @@ When finished you should have around 100 LEDs in your lamp, but it's worth count
 #### Step 3 - Solder LED Strip to D1 Mini
 Rather than use plugs, I solder my strip directly to my D1 Mini, but you can use connectors if you wish.  Connect the +5v and G lines to the corresponding pins on the D1 Mini and the data line to D4 (just above the +5v and G pins).
 
-<img src="images/IMG_9125.jpg" alt="The wires from the LED strip soldered to the D1 Mini" width="600">
+<img src="images/mcu_wiring.jpg" alt="The wires from the LED strip soldered to the D1 Mini" width="600">
 
 #### Step 4 - Add the Reflector
 Next, feed the D1 Mini through the hole in the reflector.
