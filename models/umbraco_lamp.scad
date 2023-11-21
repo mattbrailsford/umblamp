@@ -242,7 +242,7 @@ module umbraco_u(h, r = 0)
     translate([0,-center_offset,0]) {
         linear_extrude(h) {
             scale([scale_factor, scale_factor]) offset(r = r) {
-                import("umbraco_logo_u.svg", center = true);
+                import("umbraco_u.svg", center = true);
             }
         }
     }
